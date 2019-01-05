@@ -3,6 +3,7 @@
 * Sample container and presentational component created, using counter value from redux store
 * Sample routes added
 * Uses Jest for running unit test
+* Uses Sass for styles for better management, although you can you CSS(.css files as well)
 * Can add your own test using extension *.test.js
 * Can check the npm bundler/build scripts inside node_modules/react-scripts
 
