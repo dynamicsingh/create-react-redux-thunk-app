@@ -13,7 +13,7 @@
 * Step 2: navigate inside the project folder `cd create-react-redux-thunk-app`
 * Step 3: do `npm install` or `yarn install`
 
-######Use following scripts to run this project on development mode, create production build and run unit tests
+###### Use following scripts to run this project on development mode, create production build and run unit tests
 
 ## Available Scripts
 ###### uses [React-scripts](https://www.npmjs.com/package/react-scripts) for build creation and running tests
