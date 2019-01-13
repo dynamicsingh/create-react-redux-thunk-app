@@ -7,7 +7,7 @@
 * Can add your own test using extension *.test.js
 * Can check the npm bundler/build scripts inside node_modules/react-scripts
 
-#####This project aims at helping kickstarting a new react redux project which uses redux thunk as middleware.
+##### This project aims at helping kickstarting a new react redux project which uses redux thunk as middleware.
 
 * Step 1: `clone this repository`
 * Step 2: navigate inside the project folder `cd create-react-redux-thunk-app`
@@ -16,7 +16,7 @@
 ######Use following scripts to run this project on development mode, create production build and run unit tests
 
 ## Available Scripts
-######uses [React-scripts](https://www.npmjs.com/package/react-scripts) for build creation and running tests
+###### uses [React-scripts](https://www.npmjs.com/package/react-scripts) for build creation and running tests
 
 In the project directory, you can run:
 
